@@ -2,7 +2,7 @@
 
 [Everything](http://www.voidtools.com)是一款运行在Windows系统的软件，用于快速搜索Windows系统本地的文件，包括但不限于音频，压缩文件，文档，可执行文件，文件夹，图片，视频。
 
-目前正在翻译中，会慢慢放出一部分翻译，托管在gitbook上。
+目前正在翻译中，会慢慢放出一部分翻译，托管在gitbook上，地址[everything_doc_zh_cn](https://scoful.gitbooks.io/everything_doc_zh_cn/)。
 
 注意事项：
 
