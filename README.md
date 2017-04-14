@@ -4,6 +4,8 @@
 
 目前正在翻译中，会慢慢放出一部分翻译，托管在gitbook上，地址[everything_doc_zh_cn](https://scoful.gitbooks.io/everything_doc_zh_cn/)。
 
+欢迎吐槽，如果有人看的话，Orz。。。
+
 注意事项：
 
 1. #todo代表待翻译，或是找不到合适的词语，或是有链接还没连上；
